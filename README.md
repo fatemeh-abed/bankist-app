@@ -16,13 +16,13 @@ This project was developed as part of learning advanced JavaScript concepts and 
 
 ### Dashboard
 
-![Dashboard](./img/screenshot.PNG)
+![Bankist Screenshot](./img/screenshot.PNG)
 
 ---
 
 ## 🔄 Application Flow
 
-![Application Flow](./img/bankist-flowchart.png)
+![Application Flow](./img/Bankist-flowchart.png)
 
 ---
 
@@ -98,15 +98,17 @@ This project provided hands-on experience with:
 ```text
 bankist-app/
 │
-├── index.html
-├── style.css
-├── script.js
 ├── img/
+│   ├── Bankist-flowchart.png
 │   ├── icon.png
 │   ├── logo.png
-   ├── screenshot.PNG
-│   └── bankist-flowchart.png
-└── README.md
+│   └── screenshot.PNG
+│
+├── .prettierrc
+├── README.md
+├── index.html
+├── script.js
+└── style.css
 ```
 
 ---
