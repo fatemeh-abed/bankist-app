@@ -8,7 +8,7 @@ This project was developed as part of learning advanced JavaScript concepts and 
 
 ## 🚀 Live Demo
 
-🔗 https://your-demo-link
+🔗  https://fatemeh-abed.github.io/bankist-app/
 
 ---
 
